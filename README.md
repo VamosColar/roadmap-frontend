@@ -20,7 +20,7 @@ Repositório oficial para os estudos do ROADMAP
 
 Seu Pull Request será aceito apos dois usuários validarem sua atividade utilizando o recurso de +1 no comentário do Pull Request. Caso sua atividade não respeite as regras aqui definidas ou sua codificação for analisar com -1 duas vezes seu Pull Request será negado e removido. Nesse caso você terá que avaliar sua codificacão.
 
-*Obs.: Caso seu projeto exiga alguma configuração extra inidicar usando um arquivo README.md*
+*Obs.: Caso seu projeto exiga alguma configuração extra indicar usando um arquivo README.md*
 
 ## SOBRE AVALIAÇÕES
 
