@@ -18,4 +18,11 @@ Repositório oficial para os estudos do ROADMAP
 * Suba as alterações: git push origin sua-contribuicao
 * Manda um pull request
 
-Caso seu projeto exiga alguma configuração extra inidicar usando um arquivo README.md
+Seu Pull Request será aceito apos dois usuários validarem sua atividade utilizando o recurso de +1 no comentário do Pull Request. Caso sua atividade não respeite as regras aqui definidas ou sua codificação for analisar com -1 duas vezes seu Pull Request será negado e removido. Nesse caso você terá que avaliar sua codificacão.
+
+*Obs.: Caso seu projeto exiga alguma configuração extra inidicar usando um arquivo README.md*
+
+## SOBRE AVALIAÇÕES
+
+* O avaliador que der -1 no Pull Request deve indicar nos comentários o motivo
+* Notas positivas não precisam de justificativa.
