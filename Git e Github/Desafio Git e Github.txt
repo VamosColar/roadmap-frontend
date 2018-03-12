@@ -47,3 +47,5 @@ d) pull, push
 
 
 Para enviar seguir os passos que tem no README do projeto, criar um arquivo com as respostas salvando com o seu nome e fazer um pull request para o projeto.
+
+Prazo para entrega: 13/03 até 15h
