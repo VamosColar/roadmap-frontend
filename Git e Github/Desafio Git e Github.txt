@@ -1,0 +1,51 @@
+1) O que é Git?
+
+2) Qual comando utilizamos para inicializar um repositório Git?
+
+a) git init -b
+b) git init -a
+c) git init
+d) git inicializar
+
+3) Na lista abaixo qual opção não tem um comando git?
+
+a) branch, checkout, commit, diff
+b) add, status, log, dif,
+c) clone, init, merge, tag
+d) pull, push, remote, reset
+
+4) Qual comando utilizamos para comitar as alterações feitas no repositório e ainda escrever uma mensagem para o comite?
+
+5) Qual o comando utilizamos para obter um novo projeto de um repositório?
+
+a) init
+b) pull
+c) clone
+d) push
+
+6) Baixe o projeto (https://github.com/udacity/asteroids.git) e procure o commit que descreve a alteração dos controles e indique na resposta qual o id do commit.
+
+7) Quando ocorre um conflito nos arquivos do projeto, como você consegue identificá-lo?
+
+8) Quais comandos você utiliza para criar um novo branch e alterar do atual para o novo?
+
+a) branch, checkout
+b) brach, checkout
+c) branch, checkou,
+d) branch -b, checkout
+
+9) O que é o Github?
+
+10) Quais comandos você utiliza para baixar e enviar atualizações para o repositório?
+
+a) pul, push
+b) pull, pus
+c) merge, push
+d) pull, push
+
+11) Qual comando utilizamos para reescrever a mensagem do último commit?
+
+
+Para enviar seguir os passos que tem no README do projeto, criar um arquivo com as respostas salvando com o seu nome e fazer um pull request para o projeto.
+
+Prazo para entrega: 13/03 até 15h
