@@ -14,6 +14,7 @@ Caso você não tenha acesso ao Zeplin, favor criar uma conta e informar no noss
 
 * Utilizar Flexbox
 * Escolher um elemento da tela e fazer uma animação
+* Usar Html5
 * O layout deve ser responsivo
 * Não será permitido uso de Framework
 
