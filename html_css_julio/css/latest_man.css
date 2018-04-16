@@ -1,0 +1,133 @@
+.latest_man {
+    position:relative;
+    width: 1440px;
+    background-image: radial-gradient(ellipse farthest-corner at -600% 110%, #f81c7b 0%,  #f81c7b 73%, #ffffff 70%);
+    padding-bottom: 50px;
+}
+
+#latest-title {
+    padding-top: 91.6px;
+    padding-left: 557px;
+    font-weight: normal;
+    font-family: Baskerville-Normal;
+    font-size: 45px;
+    color: #d0021b;
+}
+
+#latest-subtitle {
+    padding-left: 434px;
+    padding-top: 9px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    color: #666666;
+    font-weight: normal;
+}
+
+.latest_man img {
+    padding-top: 43px;
+    padding-left: 60px;
+}
+
+.rectangle-orange {
+    position: absolute;
+    left: 199px;
+    top: 379px;
+    width: 582.5px;
+    height: 460.6px;
+    background-color: #f5690a;
+}
+
+#rectangle-h1 {
+    position: absolute;
+    top: 490px;
+    left: 293px;
+    color: #ffffff;
+    font-family: Baskerville-Normal;
+    font-weight: normal;
+    font-size: 55px;
+}
+
+#rectangle-h3 {
+     position: absolute;
+     top: 446px;
+     left: 431.5px;
+     color: #ffffff;
+     font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+}
+
+#rectangle-p {
+    position: absolute;
+    top: 565px;
+    left: 293px;
+    color: #ffffff;
+    text-align: center;
+    font-family: Baskerville-Normal;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+#photos {
+    position:absolute;
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+    left: 460px;
+    top: 646px;
+    text-align: center;
+}
+
+#line-rectangle {
+    position: absolute;
+    border-bottom: 1px solid #ffffff;
+    width: 406px;
+    left: 199px;
+    top: 770px;
+}
+
+#read {
+    position:absolute;
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    font-size: 25px;
+    left: 460px;
+    top: 706px;
+    text-align: center;
+}
+
+#icon-rectangle {
+    position:absolute;
+    color: #ffffff;
+    font-size: 20px;
+    left: 560px;
+    top: 716px;
+}
+
+#rectangle-orange {
+    position: absolute;
+    top: 653px;
+    left:425px;
+    width: 16px;
+    height: 16px;
+    border-radius: 3px;
+    border: 1px solid #ffffff;
+}
+
+#rectangle-orange-opacity {
+    position: absolute;
+    top: 648px;
+    left:430px;
+    width: 16px;
+    height: 16px;
+    border-radius: 3px;
+    opacity: 0.52;
+    border: 1px solid #ffffff;
+}
+
+#img-right-top {
+    position: absolute;
+    top: 185px;
+}
