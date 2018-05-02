@@ -1,0 +1,45 @@
+.same-day {
+    width: 1440px;
+    position: relative;
+}
+
+.same-day img {
+    padding-top: 5px;
+}
+
+.same-title {
+    position:absolute;
+    left: 383px;
+    top: 155px;
+    font-weight: normal;
+    font-family: Baskerville-Normal;
+    font-size: 45px;
+    color: #d0021b;
+}
+
+.same-sub-title {
+    position:absolute;
+    left:393px;
+    top:215px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    color: #666666;
+    font-weight: normal;
+}
+
+.same-start {
+    position:absolute;
+    left: 641px;
+    top: 291px;
+    font-size: 25px;
+    color: #3b3b3b;
+    font-weight: normal;
+}
+
+#icon-same {
+    position: absolute;
+    color: #3b3b3b;
+    left:812px;
+    top: 298px;
+    font-size: 20px;
+}

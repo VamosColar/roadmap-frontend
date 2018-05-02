@@ -1,0 +1,47 @@
+.first-img-home {
+    width:1440px;
+    position: relative;
+}
+
+.first-img-home img {
+    margin-left: 61px;
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+
+.first-img-home h4{
+    position:absolute;
+    margin-top: 132px;
+    margin-left:842px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    color: #b74f84;
+}
+
+.first-img-home h1 {
+    position: absolute;
+    font-weight: normal;
+    margin-left: 835px;
+    margin-top: 169px;
+    font-size: 55px;
+    font-family: Baskerville-Normal;
+    color: #3b3b3b;
+}
+
+.first-img-home h3 {
+    position: absolute;
+    font-weight: normal;
+    text-align: center;
+    margin-left: 1062px;
+    margin-top: 336px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    color: #3b3b3b;
+}
+
+#icon-first{
+    position: absolute;
+    margin-top: 348.2px;
+    margin-left:1241px;
+    font-size: 20px;
+}

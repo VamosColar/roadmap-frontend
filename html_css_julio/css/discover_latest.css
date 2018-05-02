@@ -1,0 +1,145 @@
+.discover_latest {
+    width: 1440px;
+    height:100%;
+}
+
+.discover-title {
+    text-align: center;
+    padding-top: 90px;
+    font-weight: normal;
+    font-size: 45px;
+    color: #d0021b;
+    font-family: Baskerville-Normal;
+}
+
+.discover-subtitle {
+    text-align: center;
+    padding-top: 9px;
+    font-weight: normal;
+    font-size: 25px;
+    color: #666666;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.img-disc {
+    margin-left: 60px;
+    margin-top: 32px;
+}
+
+.images-discover {
+    background-image: radial-gradient(ellipse farthest-corner at -600% 110%, #f8e71c 0%, #f8e71c 73%, #ffffff 70%);
+    padding-bottom: 30px;
+}
+
+.discover-text {
+    display: flex;
+}
+
+#fashion {
+    margin-left: 61px;
+    margin-top: 38.5px;
+    font-weight: normal;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    color: #b74f84;
+}
+
+#arts {
+    margin-left: 385px;
+    margin-top: 38.5px;
+    font-weight: normal;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    color: #37bd9f;
+}
+
+#travel {
+    margin-left: 322px;
+    margin-top: 38.5px;
+    font-weight: normal;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    color: #4fb759;
+}
+
+.title-img {
+    margin-top: 3px;
+    margin-left: 61px;
+    font-weight: normal;
+    font-size: 30px;
+    font-family: Baskerville-Normal;
+    color: #3b3b3b;
+}
+
+.p-img {
+    position:relative;
+    margin-left: 60px;
+    margin-top: 13px;
+    font-size:20px;
+    font-family: 'Open Sans', sans-serif;
+    color: #666666;
+    padding-bottom: 86px;
+}
+
+#border-pink {
+    border-bottom: solid 1px #b74f84;
+}
+
+#border-blue {
+    border-bottom: solid 1px #37bd9f;
+}
+
+#border-green {
+    border-bottom: solid 1px #4fb759;
+}
+
+.h3-fashion {
+    position:absolute;
+    margin-left: 299px;
+    margin-top: 145px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    color: #3b3b3b;
+    font-weight: normal;
+}
+
+#icon-fashion {
+    position: absolute;
+    margin-left: 410px;
+    margin-top: 155px;
+    font-size: 20px;
+}
+
+.h3-arts {
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 145px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    color: #3b3b3b;
+    font-weight: normal;
+}
+
+#icon-arts {
+    position: absolute;
+    margin-left: 860px;
+    margin-top: 155px;
+    font-size: 20px;
+}
+
+.h3-travel {
+    position: absolute;
+    margin-left: 1235px;
+    margin-top: 145px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    color: #3b3b3b;
+    font-weight: normal;
+}
+
+#icon-travel {
+    position: absolute;
+    margin-left: 1350px;
+    margin-top: 155px;
+    font-size: 20px;
+}

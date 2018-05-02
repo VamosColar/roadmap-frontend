@@ -1,0 +1,170 @@
+.header {
+    width:1440px;
+    height:100px;
+    background-color: #ffffff;
+    max-width:100%;
+    flex-wrap: wrap;
+    white-space: nowrap;
+}
+
+.menu ul {
+    text-align: left;
+    display: flex;
+    margin-left: 60px;
+    justify-content: space-between;
+}
+
+#home {
+    padding-top: 41px;
+    font-weight: normal;
+    font-family: Baskerville-Normal;
+    font-size: 18px;
+    padding-bottom: 8px;
+}
+
+#home a {
+    color: #000000;
+}
+
+#men {
+    margin-left: 116.2px;
+    padding-top: 41px;
+    font-weight: normal;
+    font-family: Baskerville-Normal;
+    font-size: 18px;
+    color: #000000;
+}
+
+#men a{
+    color: #000000;
+}
+
+#women {
+    padding-top: 41px;
+    margin-left: 78.2px;
+    font-weight: normal;
+    font-family: Baskerville-Normal;
+    font-size: 18px;
+    color: #000000;
+}
+
+#women a{
+    color: #000000;
+}
+
+#style {
+    padding-top: 41px;
+    margin-left: 78.2px;
+    font-weight: normal;
+    font-family: Baskerville-Normal;
+    font-size: 18px;
+    color: #000000;
+}
+
+#style a{
+    color: #000000;
+    text-align: left;
+    width: 100%;
+}
+
+#circulo {
+    margin-right: 60px;
+    width: 60.6px;
+    height: 56.6px;
+    background-color: #d0021b;
+    border-radius: 100%;
+    margin-left: 82.5px;
+    margin-top: 12px;
+}
+
+#circulo a {
+    color: #ffffff;
+    font-family: Baskerville-Normal;
+    font-size: 20px;
+    margin-top: 26.9px;
+}
+
+#icon-user {
+    margin-top: 43px;
+    margin-left: 249.1px;
+    color: #000000;
+    font-size: 12px;
+}
+
+#my-acc {
+    padding-left: 16px;
+    padding-top: 38px;
+    text-align: center;
+}
+
+#my-acc a{
+    font-family: 'Open Sans', sans-serif;
+    font-size:18px;
+    color: #3b3b3b;
+}
+
+#icon-saved {
+    padding-left: 46.2px;
+    padding-top: 39px;
+}
+
+#saved {
+    padding-top: 39px;
+    padding-left: 19px;
+    font-weight: normal;
+    font-family: Baskerville-Normal;
+    font-size: 18px;
+    color: #000000;
+}
+
+#saved a {
+    color: #000000;
+    margin-right: 15px;
+}
+
+#shopcar {
+    margin-top: 36.1px;
+    margin-left:39px;
+}
+
+#numbershop {
+    margin-top: 36px;
+    margin-left: 4.5px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    margin-right: 72px;
+}
+
+#home > a:hover {
+    color: #d0021b;
+    border-bottom: 1px solid #d0021b;
+    padding-bottom: 10px;
+}
+
+#men > a:hover {
+    color: #d0021b;
+    border-bottom: 1px solid #d0021b;
+    padding-bottom: 10px;
+}
+
+#women > a:hover {
+    color: #d0021b;
+    border-bottom: 1px solid #d0021b;
+    padding-bottom: 10px;
+}
+
+#style > a:hover {
+    color: #d0021b;
+    border-bottom: 1px solid #d0021b;
+    padding-bottom: 10px;
+}
+
+#my-acc > a:hover {
+    color: #d0021b;
+}
+
+#saved > a:hover {
+    color: #d0021b;
+    border-bottom: 1px solid #d0021b;
+    padding-bottom: 10px;
+}

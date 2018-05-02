@@ -1,0 +1,92 @@
+.things_to_eat {
+    position:relative;
+    margin-top: 105px;
+    display:flex;
+    max-width: 100%;
+    flex-wrap: wrap;
+}
+
+.text-food-h1 {
+    position: absolute;
+    margin-top: 238px;
+    margin-left: 804px;
+    font-size:55px;
+    color: #ffffff;
+    font-family: Baskerville-Normal;
+    font-weight: normal;
+    max-width: 100%;
+    flex-wrap: wrap
+}
+
+.text-food-h3 {
+    position: absolute;
+    margin-top: 196px;
+    margin-left: 939.5px;
+    font-size: 18px;
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+.text-food-h4 {
+    position: absolute;
+    font-size: 25px;
+    top: 525px;
+    left:909px;
+    font-weight:normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+}
+
+.text-food-p {
+    position: absolute;
+    margin-top: 316px;
+    margin-left: 804px;
+    font-size:20px;
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    text-align: center;
+    letter-spacing: normal;
+    max-width:  100%;
+    flex-wrap: wrap
+}
+
+.rectangle {
+    position:absolute;
+    top: 448px;
+    left:950px;
+    width: 16px;
+    height: 16px;
+    border-radius: 3px;
+    border: 1px solid #ffffff;
+}
+
+.rectangle-opacity {
+    position:absolute;
+    top: 452px;
+    left:955px;
+    width: 16px;
+    height: 16px;
+    border-radius: 3px;
+    opacity: 0.52;
+    border: 1px solid #ffffff;
+}
+
+.line_bottom {
+    position:absolute;
+    top:588px;
+    left:662px;
+    width:406px;
+    border-bottom: solid 1px #ffffff;
+    max-width:  100%;
+    flex-wrap: wrap
+}
+
+#icon-things {
+    position: absolute;
+    top: 540px;
+    right: 190px;
+    color: #ffffff;
+    font-size: 20px;
+}
